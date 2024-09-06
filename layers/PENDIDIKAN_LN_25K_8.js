@@ -1,0 +1,1 @@
+var json_PENDIDIKAN_LN_25K_8 = {"type":"FeatureCollection","name":"PENDIDIKAN_LN_25K_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
